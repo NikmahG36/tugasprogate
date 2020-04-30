@@ -14,6 +14,8 @@
   .heading h2 {
     font-size: 20px;
   }
+  .sponsor-wrapper{
+  height:1200px}
 }
 
 /* Untuk Smartphone */
@@ -61,4 +63,6 @@
     font-size: 14px;
     line-height: 20px;
   }
+  .sponsor-wrapper{
+  height:1200px}
 }
