@@ -138,7 +138,6 @@ header {
 .heading {
   padding-top: 60px;
   padding-bottom: 30px;
-  color: blue;
 }
 
 .heading h2 {
@@ -163,7 +162,6 @@ header {
 
 /*penambahan iklan */
 .sponsor-wrapper {
-  height: 350px;
   padding-bottom: 80px;
   background-color: #C0C0C0;
   text-align: center;
@@ -209,7 +207,7 @@ input, textarea {
   color: #889eab;
 }
 
-.txt-contents {
+.text-contents {
   width: 80%;
   display: inline-block;
   margin-top: 40px;
@@ -225,7 +223,6 @@ input, textarea {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
-  background-color: #C0C0C0;
 }
 
 .message {
@@ -240,9 +237,8 @@ input, textarea {
   top: 7px;
   box-shadow: none;
 }
-
 footer img {
-  width: 80px;
+  width: 125px;
 }
 
 footer p {
@@ -252,4 +248,5 @@ footer p {
 
 footer {
   padding-top: 30px;
+  padding-bottom: 20px;
 }
