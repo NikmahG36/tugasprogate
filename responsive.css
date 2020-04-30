@@ -10,9 +10,7 @@
   .top-wrapper h1 {
     font-size: 32px;
   }
-  .footer{
-  text-align:left;
-  }
+  
   .heading h2 {
     font-size: 20px;
   }
@@ -50,7 +48,7 @@
   }
   
   /* Tambahkan CSS untuk menu-icon */
-  .menu-icon{
+  .menu-symbol{
     display:block;
   }
   
