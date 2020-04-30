@@ -163,14 +163,14 @@ header {
 .sponsor-wrapper {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
-  background-color: #C0C0C0;
+  background-color: #c0c0c0;
   text-align: center;
   height:600px;
 }
 
 .iklan {
   float: left;
-  width: 32%;
+  width: 33%;
 }
 
 .iklan-icon {
