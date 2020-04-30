@@ -7,15 +7,6 @@
  .iklan {
     width: 100%;
   }
-  .header-right{
-    display:block;
-  }
-  
-  /* Tambahkan CSS untuk menu-icon */
-  .menu-icon{
-    display:none;
-  }
-
   .top-wrapper h1 {
     font-size: 32px;
   }
