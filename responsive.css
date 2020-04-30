@@ -4,7 +4,17 @@
     width: 40%;
     margin-bottom: 50px;
   }
- .iklan {
+  /* Tambahkan CSS untuk header-right */
+  .header-right{
+    display:block;
+  }
+  
+  /* Tambahkan CSS untuk menu-icon */
+  .menu-bar{
+    display:none;
+  }
+
+  .iklan {
     width: 100%;
   }
   .top-wrapper h1 {
