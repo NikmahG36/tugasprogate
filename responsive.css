@@ -22,7 +22,15 @@
   .lesson {
     width: 100%;
   }
-  
+  input, textarea {
+  width: 280px;
+  }
+
+
+.text-contents {
+  font-size: 12px;
+}
+
 .iklan {
     width: 100%;
   }
