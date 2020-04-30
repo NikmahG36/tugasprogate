@@ -237,6 +237,7 @@ input, textarea {
 }
 footer img {
   width: 125px;
+  text-align:left;
 }
 
 footer p {
