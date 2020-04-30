@@ -125,8 +125,7 @@ header {
   float: right;
   font-size: 25px;
   padding: 21px 0;
-  /* Gantikan property display ke none */
-  display:none;
+  display: none;
 }
 
 .lesson-wrapper {
@@ -161,12 +160,12 @@ header {
   color: blue;
 }
 
-/*penambahan iklan */
 .sponsor-wrapper {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   background-color: #C0C0C0;
-  text-align: center;}
+  text-align: center;
+}
 
 .iklan {
   float: left;
@@ -184,7 +183,6 @@ header {
   color: white;
   font-size: 15px;
 }
-/*----- */
 
 .contact-form {
   padding-top: 100px;
