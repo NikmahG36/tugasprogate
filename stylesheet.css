@@ -40,11 +40,11 @@ a {
 .top-wrapper p {
   opacity: 0.7;
   margin-bottom: 3px;
-  font-size: 25px;
 }
 
 .btn-wrapper {
   margin: 20px 0;
+  text-align:center;
 }
 
 .btn-wrapper p {
@@ -70,6 +70,7 @@ a {
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
+  text-align:center;
 }
 
 .btn:hover {
@@ -114,6 +115,11 @@ header {
   float: left;
   transition: all 0.5s;
 }
+
+.header-right a:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
 .menu-icon {
   color: white;
   float: right;
@@ -124,7 +130,6 @@ header {
 }
 
 .lesson-wrapper {
-  height: 400px;
   padding-bottom: 80px;
   background-color: white;
   text-align: center;
