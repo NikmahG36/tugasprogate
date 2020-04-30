@@ -120,7 +120,7 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-.menu-symbol {
+.menu-bar {
   color: white;
   float: right;
   font-size: 25px;
@@ -165,6 +165,7 @@ header {
   padding-bottom: 80px;
   background-color: #C0C0C0;
   text-align: center;
+  height:600px;
 }
 
 .iklan {
