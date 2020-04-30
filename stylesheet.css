@@ -163,11 +163,10 @@ header {
 
 /*penambahan iklan */
 .sponsor-wrapper {
+  border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   background-color: #C0C0C0;
-  text-align: center;
-  font-size: 10px;
-}
+  text-align: center;}
 
 .iklan {
   float: left;
