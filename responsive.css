@@ -4,16 +4,7 @@
     width: 40%;
     margin-bottom: 50px;
   }
-  /* Tambahkan CSS untuk header-right */
-  .header-right{
-    display:block;
-  }
-  
-  /* Tambahkan CSS untuk menu-icon */
-  .menu-bar{
-    display:none;
-  }
-
+ 
   .iklan {
     width: 100%;
   }
@@ -24,8 +15,6 @@
   .heading h2 {
     font-size: 20px;
   }
-  .sponsor-wrapper{
-  height:1800px}
 }
 
 /* Untuk Smartphone */
@@ -60,7 +49,7 @@
   }
   
   /* Tambahkan CSS untuk menu-icon */
-  .menu-bar{
+  .menu-icon{
     display:block;
   }
   
@@ -73,6 +62,5 @@
     font-size: 14px;
     line-height: 20px;
   }
-  .sponsor-wrapper{
-  height:1800px}
+  
 }
