@@ -4,6 +4,9 @@
     width: 50%;
     margin-bottom: 50px;
   }
+ .iklan {
+    width: 100%;
+  }
   
   .top-wrapper h1 {
     font-size: 32px;
@@ -17,6 +20,10 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   .lesson {
+    width: 100%;
+  }
+  
+.iklan {
     width: 100%;
   }
   
